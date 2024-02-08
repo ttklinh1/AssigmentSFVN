@@ -6,8 +6,6 @@ For run this project:
         1. cd <folder_root_project>
         2. composer install
         3. php artisan migrate
-        4. composer require laravel/ui
-        5. php artisan ui bootstrap --auth
-        6. npm install
-        7. npm run dev
-        8. php artisan serve
+        4. npm install
+        5. npm run dev
+        6. php artisan serve
